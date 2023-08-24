@@ -1,18 +1,36 @@
-## Getting Started
+# Simulador de Conta Bancária via Terminal 🏦
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Olá! Este é o projeto onde simulo uma conta bancária direto pelo terminal. Foi um desafio incrível e estou feliz em compartilhar com vocês!
 
-## Folder Structure
+## Sobre o Projeto 📖
 
-The workspace contains two folders by default, where:
+Este projeto faz parte da trilha de Java Básico que estou seguindo. A ideia é simples: simular operações bancárias básicas, como depósito, saque e consulta de saldo, tudo via linha de comando.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Funcionalidades 🛠️
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- **Criação de Conta**: Você pode criar uma nova conta, definindo um número e um saldo inicial.
+  
+- **Depósito**: Adicione fundos à sua conta.
+  
+- **Saque**: Retire dinheiro da sua conta. (Não se preocupe, é só uma simulação! 😅)
+  
+- **Consulta de Saldo**: Veja quanto dinheiro você tem na sua conta virtual.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Como Usar ⌨️
 
-## Dependency Management
+1. Clone este repositório.
+2. Navegue até a pasta do projeto via terminal.
+3. Execute o arquivo principal para iniciar a simulação.
+4. Siga as instruções no terminal.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Contribuições 🤝
+
+Se você encontrou algum bug ou tem alguma sugestão de melhoria, por favor, abra uma issue ou faça um pull request. Adoraria ouvir seus feedbacks e melhorar este projeto!
+
+## Agradecimentos 🙌
+
+Um agradecimento especial à trilha de Java Básico por me proporcionar este desafio e a todos que passarem por aqui e contribuírem de alguma forma.
+
+---
+
+Se você achou este projeto interessante, dê uma ⭐! E se tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato.
